@@ -1,0 +1,13 @@
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/controllers/AccountController.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/controllers/AddressController.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/dto/AddressDTO.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/Contact.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/domain/Address.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/services/AccountService.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/repositories/AddressRepository.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/SwaggerConfig.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/repositories/AccountRepository.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/services/AddressService.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/dto/AccountDTO.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/Bot.java
+/home/gayanec/Documents/address-book/addressbook/src/main/java/io/project/app/addressbook/domain/Account.java

@@ -1,0 +1,13 @@
+io/project/app/addressbook/dto/AccountDTO.class
+io/project/app/addressbook/Contact.class
+io/project/app/addressbook/services/AccountService.class
+io/project/app/addressbook/repositories/AccountRepository.class
+io/project/app/addressbook/Bot.class
+io/project/app/addressbook/controllers/AddressController.class
+io/project/app/addressbook/controllers/AccountController.class
+io/project/app/addressbook/SwaggerConfig.class
+io/project/app/addressbook/domain/Account.class
+io/project/app/addressbook/services/AddressService.class
+io/project/app/addressbook/domain/Address.class
+io/project/app/addressbook/dto/AddressDTO.class
+io/project/app/addressbook/repositories/AddressRepository.class
